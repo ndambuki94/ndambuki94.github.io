@@ -50,7 +50,7 @@
                         <li class="active"><a href="#home" class="scroll-link">Home</a></li>
                         <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
                         <li><a href="#skills" class="scroll-link">Skills</a></li>
-                        <li><a href="#experience" class="scroll-link">Experience</a></li>
+                       
                         <li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
                         <li><a href="#contactUs" class="scroll-link">Contact Us</a></li>
                     </ul>
@@ -156,7 +156,7 @@
         <div class="heading text-center">
                 <!-- Heading -->
                 <h2>My Skills</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+                <p>Exhibits great skills in Architectural drawing, Branding, Photography and Design</p>
             </div>
         	<div class="row">
                 <div class="col-sm-6">
